@@ -18,6 +18,12 @@
    #### [Python for data science and machine learning bootcamp](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)
    #### [Machine Learning A-Z](https://www.udemy.com/machinelearning/)
    #### [Deep Learning A-Z](https://www.udemy.com/deeplearning/)
-   
-
+* Tutorials
+   #### [Datacamp tutorials](https://www.datacamp.com/community/tutorials)
+* Websites
+   #### [Hackerrank](https://www.hackerrank.com)
+   #### [Kaggle](https://www.kaggle.com)
+   #### [Checkio](https://py.checkio.org)
+   #### [Programiz](https://www.programiz.com)
+   #### [Learnpython](https://www.learnpython.org)
 
