@@ -9,6 +9,7 @@
 * This folder contains python exercises for learning basics of the language.
 ## 2. [Machine learning](https://github.com/methos90/machine-learning/tree/master/2-machine-learning)
 * This folder contains sample exercises what I learned through courses and articles.
+## 3. [Cheatsheets](https://github.com/methos90/machine-learning/tree/master/3-cheatsheets)
 # Studies
 * Online courses
    #### [Supervised Learning](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
