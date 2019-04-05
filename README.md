@@ -1,16 +1,5 @@
-# machine-learning
-My codes and and tutorials
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# About my ML repository
+⋅⋅* Python codes what I wrote since I started learning python, these are exercises for practice and learning the language. Furthermore the    repository contains some simple machine learning exercises what I learned by tutorials. 
+# Motivation
+⋅⋅* My goal is to learn as much as possible about machine learning, because I'm very interested in it.
 
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
