@@ -26,4 +26,8 @@
    #### [Checkio](https://py.checkio.org)
    #### [Programiz](https://www.programiz.com)
    #### [Learnpython](https://www.learnpython.org)
+* Videos
+   #### [Backpropagation](https://www.youtube.com/watch?v=Ilg3gGewQ5U&t=263s)
+   #### [Gradien descent](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=226s)
+   #### [Neural networks](https://www.youtube.com/watch?v=aircAruvnKk&t=1s)
 
