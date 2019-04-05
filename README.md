@@ -10,6 +10,7 @@
 ## 2. [Machine learning](https://github.com/methos90/machine-learning/tree/master/2-machine-learning)
 * This folder contains sample exercises what I learned through courses and articles.
 ## 3. [Cheatsheets](https://github.com/methos90/machine-learning/tree/master/3-cheatsheets)
+* This folder contains useful cheatsheet to study basic functions.
 # Studies
 * Online courses
    #### [Supervised Learning](https://www.datacamp.com/courses/supervised-learning-with-scikit-learn)
