@@ -57,7 +57,7 @@ NN = Neural_Network()
 
 file = open("bacprop.txt","w")
 
-for i in range(10000): # trains the NN 1,000 times
+for i in range(1000): # trains the NN 1,000 times
   #file.write("\nInput: \n" + str(X))
   file.write("\nActual Output: \n" + str(y))
   file.write("\nPredicted Output: \n" + str(NN.forward(X)))
