@@ -23,9 +23,8 @@
 * Tutorials
    #### [Datacamp tutorials](https://www.datacamp.com/community/tutorials)
 * Websites
-   #### [Hackerrank](https://www.hackerrank.com)
    #### [Kaggle](https://www.kaggle.com)
-   #### [Checkio](https://py.checkio.org)
+   #### [TowardsDataScience](https://towardsdatascience.com)
    #### [Programiz](https://www.programiz.com)
    #### [Learnpython](https://www.learnpython.org)
 * Videos
