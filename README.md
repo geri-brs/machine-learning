@@ -3,6 +3,7 @@
 # Motivation
 * My goal is to learn as much as possible about machine learning, that's an extremely interesting area of artifical intelligence.
 # Framework used
+* Google Colaboratory
 * Jupyter notebook
 * Visual Studio Code
 ## 1. [Python learning](https://github.com/methos90/machine-learning/tree/master/1-python-learning)
